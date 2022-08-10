@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Axe",
+    "price": 2000,
+    "imgUrl": "https://freepngimg.com/thumb/axe/32861-4-battle-axe-picture-thumb.png",
+    "description": "A long-handled weapon with a heavy, sharp blade on one end"
+  },
+  {
+    "name": "Sword",
+    "price": 1000,
+    "imgUrl": "https://freepngimg.com/thumb/sword/31768-7-black-sword-thumb.png",
+    "description": "A Weapon with a long blade for cutting or thrusting that is often used as a symbol of honor or authority"
+  },
+  {
+    "name": "Spear",
+    "price": 1500,
+    "imgUrl": "https://pngimg.com/uploads/spear/small/spear_PNG59.png",
+    "description": "A weapon with a long shaft and a pointed tip, typically of metal, used for thrusting or throwing."
+  },
+  {
+    "name": "Bow",
+    "price": 1700,
+    "imgUrl": "https://www.zeldadungeon.net/wiki/images/5/50/Wooden_Bow_-_HWAoC_icon.png",
+    "description": "A weapon used for shooting arrows and usually made of a strip of wood bent by a cord connecting the two ends."
+  }
+]
